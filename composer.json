@@ -1,5 +1,5 @@
 {
-    "name": "laravel-zero/installer",
+    "name": "bigskyrider/installer",
     "description": "The Laravel Zero Installer.",
     "keywords": ["framework", "laravel", "console", "zero"],
     "license": "MIT",
